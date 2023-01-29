@@ -1,0 +1,19 @@
+.title {
+  text-align: center;
+  font-size: xx-large;
+  color: white;
+  text-shadow: 1px 1px whitesmoke;
+}
+
+.subtext {
+  margin-top: -2%;
+  text-align: center;
+  font-size: xx-small;
+  color: white;
+  text-shadow: 1px 1px whitesmoke;
+}
+
+.bg {
+  background: url(files/deerpark.gif);
+  background-size: cover;
+}
