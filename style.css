@@ -1,0 +1,50 @@
+.title {
+  margin: 100px;
+  text-align: center;
+  font-size: xx-large;
+  color: white;
+  text-shadow: 1px 1px whitesmoke;
+}
+
+/* Chancer */
+.chancer {
+  margin-top: 10%;
+  margin-left: 5%;
+}
+.more1 {
+  color: white;
+  text-decoration: none;
+}
+.more1:hover {
+  text-shadow: 0 2px 20px rgba(255, 255, 255, 1);
+}
+
+/* Silhouette */
+.elusin {
+  margin-top: 1%;
+  margin-left: 5%;
+}
+.more2 {
+  color: white;
+  text-decoration: none;
+}
+.more2:hover {
+  text-shadow: 0 2px 20px rgba(255, 255, 255, 1);
+}
+
+.cover img {
+  margin-left: 25%;
+  width: 25%;
+  visibility: hidden;
+}
+
+.NSA {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 1%;
+}
+
+.bg {
+  background: url(files/deerpark.gif);
+  background-size: cover;
+}
